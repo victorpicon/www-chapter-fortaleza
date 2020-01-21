@@ -1,5 +1,5 @@
 ### Fortaleza Information
-* Provide Group Information
+Chapter Fortaleza
 
 ### Social Links
 * [Meetup](#)
