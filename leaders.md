@@ -1,2 +1,2 @@
 ### Leaders
-* [Maurico Harley](mailto:maurico.harley@owasp.org)
+* [Mauricio Harley](mailto:mauricio.harley@owasp.org)
