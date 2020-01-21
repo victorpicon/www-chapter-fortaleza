@@ -1,5 +1,4 @@
-### Fortaleza Information
-Chapter Fortaleza
+* Chapter Fortaleza
 
 ### Social Links
 * [Meetup](#)
