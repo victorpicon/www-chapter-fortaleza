@@ -1,11 +1,11 @@
 ---
-title: Example
+title: Reuniões
 layout:  null
 tab: true
 order: 1
 tags: example-tag
 ---
 
-## Example
+## Reuniões
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+O primeiro evento está sendo organizado e novidades serão divulgadas aqui tão breve quanto possível.
