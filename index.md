@@ -2,8 +2,9 @@
 
 layout: col-sidebar
 title: OWASP Fortaleza
-tags: example-tag
+tags: meeting-tag
 region: South America
+level: 2
 
 ---
 
