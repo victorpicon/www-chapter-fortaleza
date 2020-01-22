@@ -10,7 +10,7 @@ region: South America
 ![Fortaleza, CE](assets/images/Logo_OWASP_Fortaleza.png)
 
 ## Seja bem-vindo(a)!
-Este é o capítulo OWASP em *Fortaleza/CE*.
+Este é o capítulo OWASP em **Fortaleza/CE**.
 
 O OWASP, sigla de Open Web Application Security Project, é uma organização internacional sem fins lucrativos destinada à transmissão de conhecimento e conscientização no que diz respeito à segurança de software, especialmente Web Security. Todos seus projetos, ferramentas, documentos, fóruns e capítulos são abertos à participação de qualquer pessoa interessada em melhorar a segurança de aplicações.
 
