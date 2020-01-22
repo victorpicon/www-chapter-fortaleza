@@ -7,8 +7,6 @@ region: South America
 
 ---
 
-## OWASP Chapter Fortaleza
-
 ![Fortaleza, CE](assets/images/Logo_OWASP_Fortaleza.png)
 
 ## Seja bem-vindo(a)!
