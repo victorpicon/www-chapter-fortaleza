@@ -16,10 +16,10 @@ O OWASP, sigla de Open Web Application Security Project, é uma organização in
 
 Fortaleza é a capital do estado do Ceará. Possuindo quase 3 milhões de habitantes (segundo a estimativa [IBGE 2019](https://cidades.ibge.gov.br/brasil/ce/fortaleza/panorama)), é a [quinta mais populosa do Brasil](https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/25278-ibge-divulga-as-estimativas-da-populacao-dos-municipios-para-2019) e uma das mais importantes da Região Nordeste. Fortaleza é um hub fundamental de telecomunicações, pois concentra diversos [cabos submarinos internacionais](https://www.submarinecablemap.com/#/landing-point/fortaleza-brazil), que realizam a ligação do território brasileiro aos Estados Unidos, Europa e África. Por fim, a capital também demonstra sua importância por ser um [hub de aviação](https://www.ceara.gov.br/2019/07/25/governo-do-ceara-reunira-setores-do-turismo-em-evento-sobre-o-hub-aereo/), possuindo voos diretos para diversas cidades no exterior.
 
-## Participation
+## Participação
 Você é nosso(a) convidado(a) para participar de nossas reuniões. Como o capítulo acaba de ser criado, tanto o formato quanto o conteúdo do primeiro evento está sendo preparado. Vcoê pode contribuir dando sua opinião sobre como você gostaria que este evento fosse preenchendo o formulário abaixo:
 
-* (https://forms.gle/FUR6VmT3mtDZbrqq9)
+* [Formulário para Evento Inaugural do Capítulo](https://forms.gle/FUR6VmT3mtDZbrqq9)
 
 Os capítulos são liderados por líders locais, de acordo com o [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Contribuições financeiras devem ser feitas apenas de maneira online usando o botão autorizado para doação online. Para se tornar um APRESENTADOR em QUALQUER capítulo da OWASP no mundo simplesmente revise o [speaker agreement](/www-policy/speaker-agreement), e contacte o líder do capítulo local com detalhes sobre qualquer projeto, pesquisa independente, ou tópico relacionado de segurança de software você gostaria de apresentar.
 
