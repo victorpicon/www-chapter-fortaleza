@@ -17,3 +17,8 @@ tags: meeting-tag
 **Programação:**
 
 ![Reunião 1](assets/images/Programacao_Sessao_1.jpeg)
+
+As apresentações podem ser baixadas aqui:
+
+* Introdução à OWASP
+* OWASP Top Ten - As Ameaças mais Perigosas
