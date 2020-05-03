@@ -18,6 +18,6 @@ tags: meeting-tag
 
 ![Reunião 1](assets/images/Programacao_Sessao_1.jpeg)
 
-A apresentação menor pode ser baixada aqui:
+Apresentação Disponível:
 
 * [Introdução à OWASP](assets/images/Introducao_OWASP.pdf)
