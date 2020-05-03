@@ -11,4 +11,8 @@ tags: meeting-tag
 
 ## Reuniões
 
-O primeiro evento está sendo organizado e novidades serão divulgadas aqui tão breve quanto possível.
+# *Reunião 1*
+*Data:* Sábado, dia 25/04/2020
+*Programação:*
+
+![Reunião 1](assets/images/Programacao_Sessao_1.jpeg)
