@@ -27,7 +27,7 @@ O surgimento de novos formatos de consulta torna irrelevantes as antigas técnic
 
 Ramon Martins
 
-(assets/images/Ramon_Martins.jpg)
+![Ramon Martins](assets/images/Ramon_Martins.jpg)
 
 Pesquisador de Segurança da Informação no Instituto Atlântico
 
@@ -37,6 +37,18 @@ Mestrando no programa Mestrado e Doutorado em Ciência da Computação - MDCC na
 
 Pós-graduando MBA em Computação Forense no Instituto de Pós-graduação e Graduação - IPOG
 
-RSI UFCCriador do projeto RSI - Residência em Segurança da Informação, site: http://rsi.dc.ufc.br/ , projeto de extensão da UFC.
+RSI UFC - Criador do projeto RSI - Residência em Segurança da Informação: [RSI](http://rsi.dc.ufc.br/), projeto de extensão da UFC.
 
 Entusiasta em Segurança da Informação, Big Data e IoT.
+
+---
+
+**Queima Dockeral:  Ataques em Ambientes Docker**
+
+Containers estão cada vez mais presentes em ambientes corporativos, entretanto, estes elementos podem apresentar falhas de segurança que podem resultar no comprometimento da rede. Dado ao crescimento e importância do tema, esta palestra tem como objetivo apresentar diferentes técnicas para exploração e pós-exploração de containers em ambientes Docker.
+
+**Victor Pasknel**
+
+![Victor Pasknel](assets/images/Victor_Pasknel.jpg)
+
+Doutorando em Ciência da Computação pela Universidade de Fortaleza. Consultor de segurança na Morphus Segurança da Informação e professor universitário com ênfase em segurança da informação.
