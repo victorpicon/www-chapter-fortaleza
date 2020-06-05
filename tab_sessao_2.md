@@ -37,7 +37,7 @@ Mestrando no programa Mestrado e Doutorado em Ciência da Computação - MDCC na
 
 Pós-graduando MBA em Computação Forense no Instituto de Pós-graduação e Graduação - IPOG
 
-RSI UFC - Criador do projeto RSI - Residência em Segurança da Informação: [RSI](http://rsi.dc.ufc.br/), projeto de extensão da UFC.
+RSI UFC - Criador do projeto RSI - Residência em Segurança da Informação: <a href="http://rsi.dc.ufc.br/" target="_blankk">RSI</a>, projeto de extensão da UFC.
 
 Entusiasta em Segurança da Informação, Big Data e IoT.
 
