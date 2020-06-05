@@ -9,7 +9,7 @@ tags: meeting-tag
 
 ---
 
-### Sessão 2
+## Sessão 2
 **Data:** Sábado, dia 27/06/2020
 
 **Programação:**
@@ -25,7 +25,7 @@ Os sistemas de armazenamento de dados NoSQL tornaram-se muito populares devido �
 
 O surgimento de novos formatos de consulta torna irrelevantes as antigas técnicas de injeção de SQL, mas os bancos de dados NoSQL são imunes à injeção em geral? A resposta é não.
 
-Ramon Martins
+**Ramon Martins**
 
 ![Ramon Martins](assets/images/Ramon_Martins.jpg)
 
