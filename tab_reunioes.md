@@ -1,15 +1,13 @@
 ---
 
 title: reunioes
-displaytext: Nossos Encontros
+displaytext: Encontro 1
 layout:  null
 tab: true
 order: 2
 tags: meeting-tag
 
 ---
-
-## Encontros
 
 ### Encontro Inaugural
 **Data:** Sábado, dia 25/04/2020
