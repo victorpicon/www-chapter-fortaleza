@@ -5,6 +5,9 @@ title: OWASP Fortaleza
 tags: meeting-tag
 region: South America
 level: 2
+meetup-group: OWASP-Fortaleza-Chapter
+country: Brazil
+postal-code: 
 
 ---
 
