@@ -12,7 +12,7 @@ tags: meeting-tag
 ### Encontro Inaugural
 **Data:** Sábado, dia 25/04/2020
 
-[**Link com a Gravação**](https://www.youtube.com/watch?v=9uVT0gLvdQg)
+**Link com a Gravação [https://www.youtube.com/watch?v=9uVT0gLvdQg](https://www.youtube.com/watch?v=9uVT0gLvdQg)
 
 **Programação:**
 
