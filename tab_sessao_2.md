@@ -12,7 +12,7 @@ tags: meeting-tag
 ## Sessão 2
 **Data:** Sábado, dia 27/06/2020
 
-**Link Inscrição: [https://www.sympla.com.br/owasp-fortaleza---reuniao-2__872952](https://www.sympla.com.br/owasp-fortaleza---reuniao-2__872952)**
+**Link com a Gravação: [https://www.youtube.com/watch?v=uLEWxhmN3hc](https://www.youtube.com/watch?v=uLEWxhmN3hc)**
 
 **Programação:**
 
