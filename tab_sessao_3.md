@@ -48,7 +48,7 @@ Emília também possui um canal no Youtube, o Descomplicando o Direito.
 
 **Alex Monteiro**
 
-![Alex Monteiro]((assets/images/Alex_Monteiro.png)
+![Alex Monteiro](assets/images/Alex_Monteiro.png)
 
 Desenvolvedor e Líder de Pesquisa e Inovação em Segurança da Informação no Instituto Atlântico - Ceará.
 
@@ -64,7 +64,7 @@ Atualmente, lidera a área de Segurança da Informação com especialidade em Bl
 
 **Weverton Medeiros**
 
-![Weverton Medeiros]((assets/images/Weverton_Medeiros.png)
+![Weverton Medeiros](assets/images/Weverton_Medeiros.png)
 
 Engenheiro de Software de Blockchain no Mastercard Labs - Irlanda.
 
