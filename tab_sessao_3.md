@@ -26,7 +26,7 @@ tags: meeting-tag
 
 **Emília Campos**
 
-![Emília Campos](assets/images/Emilia_Campos.jpg)
+![Emília Campos](assets/images/Emilia_Campos.png)
 
 Advogada, palestrante e sócia da Malgueiro Campos Advocacia. Especialista em direito empresarial, digital e propriedade intelecutal. Membro da ANPPD.
 
@@ -48,7 +48,7 @@ Emília também possui um canal no Youtube, o Descomplicando o Direito.
 
 **Alex Monteiro**
 
-![Alex Monteiro]((assets/images/Alex_Monteiro.jpg)
+![Alex Monteiro]((assets/images/Alex_Monteiro.png)
 
 Desenvolvedor e Líder de Pesquisa e Inovação em Segurança da Informação no Instituto Atlântico - Ceará.
 
@@ -64,7 +64,7 @@ Atualmente, lidera a área de Segurança da Informação com especialidade em Bl
 
 **Weverton Medeiros**
 
-![Weverton Medeiros]((assets/images/Weverton_Medeiros.jpg)
+![Weverton Medeiros]((assets/images/Weverton_Medeiros.png)
 
 Engenheiro de Software de Blockchain no Mastercard Labs - Irlanda.
 
