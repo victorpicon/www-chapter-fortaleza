@@ -1,15 +1,13 @@
 ---
-
 title: reunioes
 displaytext: Encontro 1
 layout:  null
-tab: true
+tab: false
 order: 2
 tags: meeting-tag
-
 ---
-
 ### Encontro Inaugural
+
 **Data:** Sábado, dia 25/04/2020
 
 **Link com a Gravação: [https://www.youtube.com/watch?v=9uVT0gLvdQg](https://www.youtube.com/watch?v=9uVT0gLvdQg)**

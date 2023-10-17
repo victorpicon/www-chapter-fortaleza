@@ -1,15 +1,13 @@
 ---
-
 title: Sessao_2
 displaytext: Encontro 2
 layout:  null
-tab: true
+tab: false
 order: 3
 tags: meeting-tag
-
 ---
-
 ## Sessão 2
+
 **Data:** Sábado, dia 27/06/2020
 
 **Link com a Gravação: [https://www.youtube.com/watch?v=uLEWxhmN3hc](https://www.youtube.com/watch?v=uLEWxhmN3hc)**
@@ -39,7 +37,7 @@ Mestrando no programa Mestrado e Doutorado em Ciência da Computação - MDCC na
 
 Pós-graduando MBA em Computação Forense no Instituto de Pós-graduação e Graduação - IPOG
 
-RSI UFC - Criador do projeto RSI - Residência em Segurança da Informação: <a href="http://rsi.dc.ufc.br/" target="_blankk">RSI</a>, projeto de extensão da UFC.
+RSI UFC - Criador do projeto RSI - Residência em Segurança da Informação: `<a href="http://rsi.dc.ufc.br/" target="_blankk">`RSI`</a>`, projeto de extensão da UFC.
 
 Entusiasta em Segurança da Informação, Big Data e IoT.
 
@@ -49,7 +47,7 @@ Entusiasta em Segurança da Informação, Big Data e IoT.
 
 Containers estão cada vez mais presentes em ambientes corporativos, entretanto, estes elementos podem apresentar falhas de segurança que podem resultar no comprometimento da rede. Dado ao crescimento e importância do tema, esta palestra tem como objetivo apresentar diferentes técnicas para exploração e pós-exploração de containers em ambientes Docker.
 
-**Victor Pasknel**
+**Victor**
 
 ![Victor Pasknel](assets/images/Victor_Pasknel.jpg)
 

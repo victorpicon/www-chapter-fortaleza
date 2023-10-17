@@ -1,15 +1,13 @@
 ---
-
 title: Sessao_3
 displaytext: Encontro 3
 layout:  null
-tab: true
+tab: false
 order: 4
 tags: meeting-tag
-
 ---
-
 ## Sessão 3
+
 **Data:** Sábado, dia 12/12/2020
 
 **Link para Inscrição:  [https://www.sympla.com.br/owasp-fortaleza---reuniao-3__1062267](https://www.sympla.com.br/owasp-fortaleza---reuniao-3__1062267)**
