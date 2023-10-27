@@ -23,3 +23,6 @@ Dentro nossos objetivos estão:
 - Por ultimo e nao menos importante a Trocar experiências.
 
 Vale ressaltar que Todos os projetos, ferramentas, documentos, fóruns e capítulos são gratuitos e abertos a qualquer pessoa interessada em melhorar a segurança das aplicações então juntem se a nós e a OWASP para tornar o mundo mais seguro! Quer saber como?
+
+**Próximos Encontros:**
+{% include chapter_events.html group=page.meetup-group %}
