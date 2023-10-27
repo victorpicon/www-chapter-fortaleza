@@ -7,7 +7,7 @@ order: 2
 tags: meeting-tag
 ---
 
-<b>Em breve será anunciado nova agenda 2023 de reabertura.</b>
+<img src="assets/images/Meetup-18-11-2023.png">
 
 <details open>
     <summary>2020</summary>
