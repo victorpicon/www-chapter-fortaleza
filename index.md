@@ -12,7 +12,7 @@ postal-code:
 
 # Bem vindos, Somos o Capítulo OWASP Fortaleza!
 
-Localizada na terra do sol a OWASP Fortaleza é um dos capítulos brasileiros entre os mais de 270 Capítulos ativos em todo o mundo.
+Localizada na terra do sol a OWASP Fortaleza é um dos capítulos brasileiros entre os mais de 300 Capítulos ativos em todo o mundo.
 
 Dentro nossos objetivos estão:
 
