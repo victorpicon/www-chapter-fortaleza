@@ -25,4 +25,5 @@ Dentro nossos objetivos estão:
 Vale ressaltar que Todos os projetos, ferramentas, documentos, fóruns e capítulos são gratuitos e abertos a qualquer pessoa interessada em melhorar a segurança das aplicações então juntem se a nós e a OWASP para tornar o mundo mais seguro! Quer saber como?
 
 **Próximos Encontros:**
-{% include chapter_events.html group=page.meetup-group %}
+
+Acesse nosso grupo no [Meetup](https://www.meetup.com/pt-BR/owasp-fortaleza/events/) para saber ou clique na aba **Encontros.**
