@@ -7,9 +7,14 @@ order: 2
 tags: meeting-tag
 ---
 
-<img src="assets/images/Meetup-18-11-2023.png">
+<img src="assets/images/Meetup-06-04-2024.png">
 
 <details open>
+    <summary>2023</summary>
+        <details>
+            <summary>Reabertura Chapter Fortaleza 2023 - Encontro da Comunidade</summary>
+            <img src="assets/images/Meetup-18-11-2023.png">
+        </details>
     <summary>2020</summary>
         <details>
             <summary>Sessão 1 - Encontro Inaugural - 25/04/2020</summary>
