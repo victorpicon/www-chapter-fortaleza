@@ -9,7 +9,7 @@ tags: slides-tag
 
 # Encontro 06 de Abril 2024
 ## Slides Apresentações
-### 1. Church of Golang [Download PDF]('https://github.com/pasknel/Talks/tree/main/OWASP-Fortaleza-Meetup-2024') 
+### 1. Church of Golang [Download PDF](https://github.com/pasknel/Talks/tree/main/OWASP-Fortaleza-Meetup-2024) 
 #### Apresentador: Victor Pasknel - [LinkedIn](https://www.linkedin.com/in/pasknel/)
 
 ### 2. Priorizando CVEs com Threat Intelligence [Download PDF](assets/pdfs/Priorizando_CVEs_com_Threat_Intelligence.pdf)
