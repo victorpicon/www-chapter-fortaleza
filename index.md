@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP Fortaleza
-tags: meeting-tag
+tags: meeting-tag, slides-tag
 region: South America
 level: 2
 meetup-group: owasp-fortaleza
