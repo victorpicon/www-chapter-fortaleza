@@ -7,6 +7,13 @@ order: 2
 tags: slides-tag
 ---
 
+# [Encontro 30 de Novembro 2024](https://www.meetup.com/owasp-fortaleza/events/304651097)
+## Slides Apresentações
+### Broken Access Control - Riscos para o setor financeiro e como evitá-los com modelagem de ameaças e outras medidas [Download PDF](assets/pdfs/broken_access_control_2024_3.pdf)
+#### Apresentador: Danilo Costa - [LinkedIn](https://www.linkedin.com/in/danilomcosta/)
+#### Apresentador: Pedro Vargas - [LinkedIn](https://www.linkedin.com/in/pedro-vargas-260b9714b/)
+
+
 # [Encontro 06 de Abril 2024](https://www.meetup.com/owasp-fortaleza/events/299259416)
 ## Slides Apresentações
 ### 1. Church of Golang [Download PDF](https://github.com/pasknel/Talks/tree/main/OWASP-Fortaleza-Meetup-2024) 

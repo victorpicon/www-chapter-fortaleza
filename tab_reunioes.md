@@ -6,9 +6,12 @@ tab: true
 order: 2
 tags: meeting-tag
 ---
-
-<img src="assets/images/Meetup-06-04-2024.png">
-
+<details open>
+    <summary>2024</summary>
+    <img src="assets/images/owasp_2024_3.jpeg">
+    <img src="assets/images/owasp_2024_2.png">
+    <img src="assets/images/Meetup-06-04-2024.png">
+</details>
 <details open>
     <summary>2023</summary>
         <details>
